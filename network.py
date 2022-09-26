@@ -35,4 +35,4 @@ if(my_gateways.__contains__(gateway)):
     print(f"Asignando IP: {ip}")
     setIpAddr('ens33', ip,gateway)
 
-print ("Alonso Vera Jimenez")
+print ("Alonso VeraaJimenez") 
